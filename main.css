@@ -19,12 +19,12 @@ html{
 body{
     height: 100%;
     counter-reset: hotDuck;
-    background-image: url(../img/Games_Duck_Hunt_Nintendo_Dendy_Nes_025749_9.jpg);
+    background-image: url(Games_Duck_Hunt_Nintendo_Dendy_Nes_025749_9.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 0 bottom;
     overflow: hidden;
-    cursor: url('../img/weapon.png'), crosshair;
+    cursor: url('img/weapon.png'), crosshair;
 }
 
 .count{
@@ -55,9 +55,9 @@ body{
     display: inline-block;
     width: 100%;
     height: 100%;
-    background-image: url(../img/duck_hunt_bird_big2.gif);
+    background-image: url(duck_hunt_bird_big2.gif);
     background-repeat: no-repeat;
-    cursor: url('../img/weapon.png'), crosshair;
+    cursor: url('weapon.png'), crosshair;
 }
 
 .duck input{
